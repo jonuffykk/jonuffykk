@@ -45,7 +45,7 @@ Sou um desenvolvedor fullstack apaixonado por criar soluções inovadoras que in
 <p align="center">
   <a href="mailto:jonuffycontato@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://discordapp.com/users/Jonuffykk"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://discord.gg/houzz"><img src="https://img.shields.io/badge/-Servidor%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Servidor"></a>
+  <a href="https://discord.gg/houzz"><img src="https://img.shields.io/badge/-Servidor-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Servidor"></a>
   <a href="https://github.com/Jonuffykk"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
 </p>
 
