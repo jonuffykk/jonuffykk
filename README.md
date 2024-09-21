@@ -35,8 +35,6 @@ Sou um desenvolvedor fullstack apaixonado por criar soluções inovadoras que in
   <img src="https://img.shields.io/badge/-AI-FF6F61?style=for-the-badge&logo=ai&logoColor=white" alt="AI">
 </p>
 
-## 📊 Métricas GitHub
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonuffykk&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonuffykk&layout=compact&langs_count=8&theme=react&hide_border=true"/>
