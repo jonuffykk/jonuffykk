@@ -20,8 +20,8 @@ Sou um desenvolvedor fullstack apaixonado por criar soluções inovadoras que in
 ### [Whirldactyl](https://github.com/jonuffykk/whirldactyl)
 > Painel de controle de próxima geração com IA integrada para gerenciamento de infraestrutura. Revolucionando a forma como gerenciamos e otimizamos recursos digitais.
 
-### [Omni LLM](https://github.com/jonuffykk/omni-llm-v1)
-> Modelo de linguagem de última geração com capacidades cognitivas avançadas. A versão atual em desenvolvimento (v5) traz recursos inovadores como cadeia de pensamento, evals e artifact generation.
+### [Whirl LLM](https://github.com/jonuffykk/whirl-llm)
+> Modelo de linguagem de última geração com capacidades cognitivas avançadas. A versão atual em desenvolvimento (v5) traz recursos inovadores como cadeia de pensamento, evals e artifact generation. Publicado na V1
 
 ## 🛠️ Habilidades Técnicas
 
