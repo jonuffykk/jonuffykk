@@ -1,4 +1,4 @@
-<h1 align="center">Jonuffy | Fullstack Developer & AI Innovator</h1>
+<h1 align="center">Jonuffy | Fullstack Developer</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Transformando%20Ideias%20em%20Realidade%20Digital-333333?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMi41IDEzLjVoNnY4aDdWMTMuNWg2TDEyIDJ6Ii8+PC9zdmc+" alt="Banner">
@@ -11,8 +11,8 @@ Sou um desenvolvedor fullstack apaixonado por criar soluções inovadoras que in
 ## 🚀 Expertise
 
 - **Desenvolvimento Fullstack**: JavaScript, TypeScript, React, Node.js, Python, Lua
-- **IA & Machine Learning**: Desenvolvimento de LLMs, sistemas cognitivos avançados
-- **DevOps & Automação**: Docker, GitHub Actions, CI/CD otimizado
+- **Machine Learning**: Desenvolvimento de LLMs, sistemas cognitivos avançados
+- **Automação e OPS**: Docker, GitHub Actions, CI/CD otimizado
 - **Design de Sistemas**: Arquiteturas escaláveis, microserviços, design patterns
 
 ## 💡 Projetos em Destaque
