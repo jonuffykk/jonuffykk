@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor fullstack apaixonado por criar soluções inovadoras que integram tecnologias de ponta com IA avançada. Minha missão é desenvolver sistemas inteligentes que não apenas atendam às necessidades atuais, mas também antecipem os desafios futuros, sempre buscando a excelência e a inovação em cada linha de código.
+Sou um desenvolvedor fullstack apaixonado por criar soluções inovadoras que integram tecnologias de ponta. Minha missão é desenvolver sistemas inteligentes que não apenas atendam às necessidades atuais, mas também antecipem os desafios futuros, sempre buscando a excelência e a inovação em cada linha de código.
 
 ## 🚀 Expertise
 
