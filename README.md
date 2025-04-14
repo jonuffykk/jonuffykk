@@ -2,7 +2,7 @@
 
 Um desenvolvedor apaixonado por web e jogos do Brasil. Atualmente trabalhando com desenvolvimento web e desenvolvimento Roblox, majoritariamente em repositórios privados, com tempo limitado devido ao trabalho em período integral.
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jonuffykk)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jonuffykk)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://jonuffy.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonuffycontato@gmail.com)
 
