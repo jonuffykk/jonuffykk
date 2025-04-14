@@ -1,5 +1,7 @@
 # 👨‍💻 Desenvolvedor Web & Roblox
 
+Um desenvolvedor apaixonado por web e jogos do Brasil. Atualmente trabalhando com desenvolvimento web e desenvolvimento Roblox, majoritariamente em repositórios privados, com tempo limitado devido ao trabalho em período integral.
+
 <div align="center">
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jonuffykk)
@@ -7,12 +9,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonuffycontato@gmail.com)
 
 </div>
-
-## 🚀 Sobre Mim
-
-Um desenvolvedor apaixonado por web e jogos do Brasil. Atualmente trabalhando com desenvolvimento web e desenvolvimento Roblox, majoritariamente em repositórios privados, com tempo limitado devido ao trabalho em período integral.
-
-## 🛠️ Stack Tecnológico
 
 <details open>
 <summary><b>🌐 Desenvolvimento Web</b></summary>
@@ -53,20 +49,10 @@ Um desenvolvedor apaixonado por web e jogos do Brasil. Atualmente trabalhando co
 
 </details>
 
-## 📚 Atualmente Aprendendo
-
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
-## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonuffykk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonuffykk&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jonuffykk&color=blueviolet" alt="Profile views"/>
 </div>
