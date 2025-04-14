@@ -6,6 +6,9 @@ Um desenvolvedor apaixonado por web e jogos do Brasil. Atualmente trabalhando co
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://jonuffy.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonuffycontato@gmail.com)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonuffykk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonuffykk&layout=compact&langs_count=7&theme=dracula)
+
 ## 🌐 Desenvolvimento Web
 
 ### Front-end
@@ -37,7 +40,7 @@ Um desenvolvedor apaixonado por web e jogos do Brasil. Atualmente trabalhando co
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 
-## 🎮 Desenvolvimento de Jogos
+## 🎮 Desenvolvimento Geral
 
 ### Plataformas
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=flat-square&logo=roblox&logoColor=white)
@@ -49,10 +52,5 @@ Um desenvolvedor apaixonado por web e jogos do Brasil. Atualmente trabalhando co
 ### Ferramentas
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
-## 🔧 Outras Tecnologias
-
 ### Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonuffykk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonuffykk&layout=compact&langs_count=7&theme=dracula)
