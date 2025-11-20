@@ -1,4 +1,4 @@
-# 👨‍💻 Desenvolvedor Web & Roblox
+# 👨‍💻 Desenvolvedor Web
 
 Um desenvolvedor apaixonado por web e jogos do Brasil. Atualmente trabalhando com desenvolvimento web e desenvolvimento Roblox, majoritariamente em repositórios privados, com tempo limitado devido ao trabalho em período integral.
 
