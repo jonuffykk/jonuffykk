@@ -14,11 +14,14 @@ A maior parte do meu trabalho fica em repositórios privados, então o que apare
 
 Lidero tecnicamente projetos escolares baseados na metodologia STEAM, com foco em soluções que aproximam tecnologia e aprendizagem e reduzem desigualdades no acesso ao ensino superior.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonuffykk&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="35%" />
-  <img src="https://streak-stats.demolab.com/?user=jonuffykk&theme=black-ice&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="35%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonuffykk&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="25%" />
-</div>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jonuffykk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=jonuffykk&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonuffykk&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+</p>
 
 ## 🌐 Desenvolvimento Web
 
