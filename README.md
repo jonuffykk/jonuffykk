@@ -1,14 +1,22 @@
-# 👨‍💻 Desenvolvedor Web
+# Anderson
 
-Um desenvolvedor apaixonado por web e jogos do Brasil. Atualmente trabalhando com desenvolvimento web e desenvolvimento Roblox, majoritariamente em repositórios privados, com tempo limitado devido ao trabalho em período integral.
+Desenvolvedor de websites e softwares no Brasil, com atuação em Python, JavaScript, TypeScript e Lua. Estudante do 3º ano do Ensino Médio no Colégio Rosalvo Félix, com conclusão prevista para 2026. Formação introdutória em Programação pela OneBitCode (2022 a 2023) e em Design Gráfico por cursos online (2024).
+
+A maior parte do meu trabalho fica em repositórios privados, então o que aparece aqui é apenas uma fatia do que produzo.
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jonuffykk)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://jonuffy.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonuffycontato@gmail.com)
 
+## 🏆 Destaques
+
+**1º lugar no Concurso InovaEdu/SINPETE-UFAL (2025)** com o **Educaki**, plataforma educacional com inteligência artificial voltada à preparação para o ENEM e o SISU.
+
+Lidero tecnicamente projetos escolares baseados na metodologia STEAM, com foco em soluções que aproximam tecnologia e aprendizagem e reduzem desigualdades no acesso ao ensino superior.
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jonuffykk&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="35%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonuffykk&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="35%" />
+  <img src="https://streak-stats.demolab.com/?user=jonuffykk&theme=black-ice&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="35%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonuffykk&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="25%" />
 </div>
 
@@ -57,3 +65,9 @@ Um desenvolvedor apaixonado por web e jogos do Brasil. Atualmente trabalhando co
 
 ### Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+---
+
+<div align="center">
+  <sub>Trabalho alinhado aos ODS 4 (Educação de Qualidade), ODS 9 (Inovação e Infraestrutura) e ODS 10 (Redução das Desigualdades).</sub>
+</div>
