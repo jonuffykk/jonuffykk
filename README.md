@@ -21,8 +21,6 @@ CS50 — Harvard University
 <br>
 LGPD — SERPRO
 
-<br><br>
-
 <b>Concluído</b>
 <br>
 Pesquisa — LabMent SINPETE, UFAL
