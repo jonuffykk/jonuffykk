@@ -1,5 +1,4 @@
-<h1 align="left">Anderson Alves</h1>
-
+## Quem eu sou
 <table>
 <tr>
 <td width="58%" valign="top">
@@ -33,7 +32,7 @@ Fullstack JavaScript — OneBitCode
 </tr>
 </table>
 
-<p align="left">
+<p align="lef">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,lua,firebase,vercel,git,figma&theme=dark" alt="Stack" />
 </p>
 
@@ -89,10 +88,9 @@ Semana STEAM CRF 2025
 ## Atividade
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jonuffykk&border_radius=5&locale=pt_BR&short_numbers=true&card_width=500&card_height=200&type=svg" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jonuffykk&theme=radical&hide_border=true&border_radius=5&locale=pt_BR&short_numbers=true&card_width=500&card_height=200)" alt="GitHub Streak" />
 </p>
 
-<br>
 
 <p align="center">
   <a href="https://andersonalves.site"><b>Portfólio</b></a> &nbsp;•&nbsp;
