@@ -1,67 +1,113 @@
-# Anderson
+<h1 align="left">Anderson Alves</h1>
 
-Desenvolvedor de websites e softwares no Brasil, com atuação em Python, JavaScript, TypeScript e Lua. Estudante do 3º ano do Ensino Médio no Colégio Rosalvo Félix, com conclusão prevista para 2026. Formação introdutória em Programação pela OneBitCode (2022 a 2023) e em Design Gráfico por cursos online (2024).
+<table>
+<tr>
+<td width="58%" valign="top">
 
-A maior parte do meu trabalho fica em repositórios privados, então o que aparece aqui é apenas uma fatia do que produzo.
+Estudante do 3º ano do Ensino Médio no Colégio Rosalvo Félix, em Alagoas, e desenvolvedor web contratado pela própria escola, responsável pela arquitetura e manutenção do portal institucional.
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jonuffykk)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://jonuffy.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonuffycontato@gmail.com)
+Comecei em 2017, aos dez anos, escrevendo scripts em Lua no Roblox Studio. Em 2022 migrei para desenvolvimento web profissional, e hoje trabalho com TypeScript, React, Next.js, Python e integração de IA generativa em produtos que resolvem problemas reais de educação, meio ambiente e saúde pública.
 
-## 🏆 Destaques
+Sou pesquisador no Laboratório de Mentoria Científica da Universidade Federal de Alagoas, onde desenvolvi o Educaki, plataforma premiada em 1º lugar no Concurso InovaEdu 2025.
 
-**1º lugar no Concurso InovaEdu/SINPETE-UFAL (2025)** com o **Educaki**, plataforma educacional com inteligência artificial voltada à preparação para o ENEM e o SISU.
+</td>
+<td width="42%" valign="top">
 
-Lidero tecnicamente projetos escolares baseados na metodologia STEAM, com foco em soluções que aproximam tecnologia e aprendizagem e reduzem desigualdades no acesso ao ensino superior.
+<b>Em andamento</b>
+<br>
+Ensino Médio — Colégio Rosalvo Félix
+<br>
+CS50 — Harvard University
+<br>
+LGPD — SERPRO
 
-## 🌐 Desenvolvimento Web
+<br><br>
 
-### Front-end
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<b>Concluído</b>
+<br>
+Pesquisa — LabMent SINPETE, UFAL
+<br>
+UI/UX — Design Boost
+<br>
+Fullstack JavaScript — OneBitCode
 
-### Back-end
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![discord.js](https://img.shields.io/badge/discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
+</td>
+</tr>
+</table>
 
-### Banco de Dados
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,lua,firebase,vercel,git,figma&theme=dark" alt="Stack" />
+</p>
 
-### DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+## Projetos de pesquisa e produto
 
-## 🎮 Desenvolvimento Geral
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>Educaki</h3>
 
-### Plataformas
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=flat-square&logo=roblox&logoColor=white)
+Preparação para ENEM e SISU com correção de redação por IA e simulados calculados pela Teoria de Resposta ao Item, a mesma metodologia estatística usada pelo INEP.
 
-### Linguagens
-![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+<b>1º lugar InovaEdu 2025</b>
+<br>
+Pesquisa no LabMent SINPETE
 
-### Ferramentas
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+`TRI Psicométrico`&nbsp; `IA Adaptativa`&nbsp; `Correção por IA`
 
-### Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+<a href="https://educaki.vercel.app">educaki.vercel.app →</a>
 
----
+</td>
+<td width="33%" valign="top">
+<h3>Mundaú Sentinela</h3>
 
-<div align="center">
-  <sub>Trabalho alinhado aos ODS 4 (Educação de Qualidade), ODS 9 (Inovação e Infraestrutura) e ODS 10 (Redução das Desigualdades).</sub>
-</div>
+Monitoramento hidrológico cívico da bacia do Rio Mundaú, cobrindo 12 municípios entre Alagoas e Pernambuco. Cruza vazão fluvial da ANA e previsão de cheias do modelo GloFAS.
+
+<b>Premiado</b>
+<br>
+Semana STEAM CRF 2026
+
+`API ANA`&nbsp; `Previsão GloFAS`&nbsp; `Ciência Cidadã`
+
+<a href="https://mundau.vercel.app">mundau.vercel.app →</a>
+
+</td>
+<td width="33%" valign="top">
+<h3>NATIVA</h3>
+
+Plataforma de educação ambiental com chatbot especializado em práticas sustentáveis e quiz interativo sobre biodiversidade regional em design biofílico.
+
+<b>Premiado</b>
+<br>
+Semana STEAM CRF 2025
+
+`Chatbot Ambiental`&nbsp; `UI Biofílica`&nbsp; `Educação`
+
+<a href="https://nativacrf.vercel.app">nativacrf.vercel.app →</a>
+
+</td>
+</tr>
+</table>
+
+## Atividade
+
+<p align="center">
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://andersonalves.site"><b>Portfólio</b></a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/andersonavz"><b>LinkedIn</b></a> &nbsp;•&nbsp;
+  <a href="https://orcid.org/0009-0009-4836-9214"><b>ORCID</b></a>
+</p>
+
+<p align="center">
+  📧 andersonavcontato@gmail.com
+</p>
+
+<br>
+
+<p align="center">
+  <sub><i>Unindo rigor técnico em engenharia de software à sensibilidade de design de produto para construir impacto social mensurável.</i></sub>
+</p>
