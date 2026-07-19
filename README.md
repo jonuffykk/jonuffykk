@@ -46,9 +46,7 @@ Preparação para ENEM e SISU com correção de redação por IA e simulados cal
 **1º lugar InovaEdu 2025**
 Pesquisa no LabMent SINPETE
 
-![TRI Psicométrico](https://img.shields.io/badge/-TRI%20Psicom%C3%A9trico-1a1a2e?style=flat-square)
-![IA Adaptativa](https://img.shields.io/badge/-IA%20Adaptativa-1a1a2e?style=flat-square)
-![Correção por IA](https://img.shields.io/badge/-Corre%C3%A7%C3%A3o%20por%20IA-1a1a2e?style=flat-square)
+<code>TRI Psicométrico</code> <code>IA Adaptativa</code> <code>Correção por IA</code>
 
 [educaki.vercel.app →](https://educaki.vercel.app)
 
@@ -61,9 +59,7 @@ Monitoramento hidrológico cívico da bacia do Rio Mundaú, cobrindo 12 municíp
 
 **Premiado — Semana STEAM CRF 2026**
 
-![API ANA](https://img.shields.io/badge/-API%20ANA-1a1a2e?style=flat-square)
-![Previsão GloFAS](https://img.shields.io/badge/-Previs%C3%A3o%20GloFAS-1a1a2e?style=flat-square)
-![Ciência Cidadã](https://img.shields.io/badge/-Ci%C3%AAncia%20Cidad%C3%A3-1a1a2e?style=flat-square)
+<code>API ANA</code> <code>Previsão GloFAS</code> <code>Ciência Cidadã</code>
 
 [mundau.vercel.app →](https://mundau.vercel.app)
 
@@ -76,9 +72,7 @@ Plataforma de educação ambiental com chatbot especializado em práticas susten
 
 **Premiado — Semana STEAM CRF 2025**
 
-![Chatbot Ambiental](https://img.shields.io/badge/-Chatbot%20Ambiental-1a1a2e?style=flat-square)
-![UI Biofílica](https://img.shields.io/badge/-UI%20Biof%C3%ADlica-1a1a2e?style=flat-square)
-![Educação](https://img.shields.io/badge/-Educa%C3%A7%C3%A3o-1a1a2e?style=flat-square)
+<code>Chatbot Ambiental</code> <code>UI Biofílica</code> <code>Educação</code>
 
 [nativacrf.vercel.app →](https://nativacrf.vercel.app)
 
