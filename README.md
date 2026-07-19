@@ -4,8 +4,6 @@
 <tr>
 <td width="58%" valign="top">
 
-## Quem eu sou
-
 Estudante do 3º ano do Ensino Médio no Colégio Rosalvo Félix, em Alagoas, e desenvolvedor web contratado pela própria escola, responsável pela arquitetura e manutenção do portal institucional.
 
 Comecei em 2017, aos dez anos, escrevendo scripts em Lua no Roblox Studio. Em 2022 migrei para desenvolvimento web profissional, e hoje trabalho com TypeScript, React, Next.js, Python e integração de IA generativa em produtos que resolvem problemas reais de educação, meio ambiente e saúde pública.
