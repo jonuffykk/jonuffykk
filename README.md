@@ -21,6 +21,8 @@ CS50 — Harvard University
 <br>
 LGPD — SERPRO
 
+<br><br>
+
 <b>Concluído</b>
 <br>
 Pesquisa — LabMent SINPETE, UFAL
@@ -89,7 +91,7 @@ Semana STEAM CRF 2025
 ## Atividade
 
 <p align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jonuffykk&border_radius=5&locale=pt_BR&short_numbers=true&card_width=500&card_height=200&type=svg" alt="GitHub Streak" />
 </p>
 
 <br>
