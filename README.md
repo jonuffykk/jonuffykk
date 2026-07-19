@@ -1,7 +1,10 @@
-## Quem eu sou
+# Anderson Alves
+
 <table>
 <tr>
 <td width="58%" valign="top">
+
+## Quem eu sou
 
 Estudante do 3º ano do Ensino Médio no Colégio Rosalvo Félix, em Alagoas, e desenvolvedor web contratado pela própria escola, responsável pela arquitetura e manutenção do portal institucional.
 
@@ -12,27 +15,23 @@ Sou pesquisador no Laboratório de Mentoria Científica da Universidade Federal 
 </td>
 <td width="42%" valign="top">
 
-<b>Em andamento</b>
-<br>
+**Em andamento**
+
 Ensino Médio — Colégio Rosalvo Félix
-<br>
 CS50 — Harvard University
-<br>
 LGPD — SERPRO
 
-<b>Concluído</b>
-<br>
+**Concluído**
+
 Pesquisa — LabMent SINPETE, UFAL
-<br>
 UI/UX — Design Boost
-<br>
 Fullstack JavaScript — OneBitCode
 
 </td>
 </tr>
 </table>
 
-<p align="lef">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,lua,firebase,vercel,git,figma&theme=dark" alt="Stack" />
 </p>
 
@@ -41,45 +40,49 @@ Fullstack JavaScript — OneBitCode
 <table>
 <tr>
 <td width="33%" valign="top">
-<h3>Educaki</h3>
+
+### Educaki
 
 Preparação para ENEM e SISU com correção de redação por IA e simulados calculados pela Teoria de Resposta ao Item, a mesma metodologia estatística usada pelo INEP.
 
-<b>1º lugar InovaEdu 2025</b>
-<br>
+**1º lugar InovaEdu 2025**
 Pesquisa no LabMent SINPETE
 
-`TRI Psicométrico`&nbsp; `IA Adaptativa`&nbsp; `Correção por IA`
+![TRI Psicométrico](https://img.shields.io/badge/-TRI%20Psicom%C3%A9trico-1a1a2e?style=flat-square)
+![IA Adaptativa](https://img.shields.io/badge/-IA%20Adaptativa-1a1a2e?style=flat-square)
+![Correção por IA](https://img.shields.io/badge/-Corre%C3%A7%C3%A3o%20por%20IA-1a1a2e?style=flat-square)
 
-<a href="https://educaki.vercel.app">educaki.vercel.app →</a>
+[educaki.vercel.app →](https://educaki.vercel.app)
 
 </td>
 <td width="33%" valign="top">
-<h3>Mundaú Sentinela</h3>
+
+### Mundaú Sentinela
 
 Monitoramento hidrológico cívico da bacia do Rio Mundaú, cobrindo 12 municípios entre Alagoas e Pernambuco. Cruza vazão fluvial da ANA e previsão de cheias do modelo GloFAS.
 
-<b>Premiado</b>
-<br>
-Semana STEAM CRF 2026
+**Premiado — Semana STEAM CRF 2026**
 
-`API ANA`&nbsp; `Previsão GloFAS`&nbsp; `Ciência Cidadã`
+![API ANA](https://img.shields.io/badge/-API%20ANA-1a1a2e?style=flat-square)
+![Previsão GloFAS](https://img.shields.io/badge/-Previs%C3%A3o%20GloFAS-1a1a2e?style=flat-square)
+![Ciência Cidadã](https://img.shields.io/badge/-Ci%C3%AAncia%20Cidad%C3%A3-1a1a2e?style=flat-square)
 
-<a href="https://mundau.vercel.app">mundau.vercel.app →</a>
+[mundau.vercel.app →](https://mundau.vercel.app)
 
 </td>
 <td width="33%" valign="top">
-<h3>NATIVA</h3>
+
+### NATIVA
 
 Plataforma de educação ambiental com chatbot especializado em práticas sustentáveis e quiz interativo sobre biodiversidade regional em design biofílico.
 
-<b>Premiado</b>
-<br>
-Semana STEAM CRF 2025
+**Premiado — Semana STEAM CRF 2025**
 
-`Chatbot Ambiental`&nbsp; `UI Biofílica`&nbsp; `Educação`
+![Chatbot Ambiental](https://img.shields.io/badge/-Chatbot%20Ambiental-1a1a2e?style=flat-square)
+![UI Biofílica](https://img.shields.io/badge/-UI%20Biof%C3%ADlica-1a1a2e?style=flat-square)
+![Educação](https://img.shields.io/badge/-Educa%C3%A7%C3%A3o-1a1a2e?style=flat-square)
 
-<a href="https://nativacrf.vercel.app">nativacrf.vercel.app →</a>
+[nativacrf.vercel.app →](https://nativacrf.vercel.app)
 
 </td>
 </tr>
@@ -88,9 +91,8 @@ Semana STEAM CRF 2025
 ## Atividade
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jonuffykk&theme=radical&hide_border=true&border_radius=5&locale=pt_BR&short_numbers=true&card_width=500&card_height=200)" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jonuffykk&theme=radical&hide_border=true&border_radius=5&locale=pt_BR&short_numbers=true&card_width=500&card_height=200" alt="GitHub Streak" />
 </p>
-
 
 <p align="center">
   <a href="https://andersonalves.site"><b>Portfólio</b></a> &nbsp;•&nbsp;
@@ -101,8 +103,6 @@ Semana STEAM CRF 2025
 <p align="center">
   📧 andersonavcontato@gmail.com
 </p>
-
-<br>
 
 <p align="center">
   <sub><i>Unindo rigor técnico em engenharia de software à sensibilidade de design de produto para construir impacto social mensurável.</i></sub>
