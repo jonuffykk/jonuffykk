@@ -15,14 +15,14 @@ Sou pesquisador no Laboratório de Mentoria Científica da Universidade Federal 
 
 **Em andamento**
 
-Ensino Médio — Colégio Rosalvo Félix
-CS50 — Harvard University
+Ensino Médio — Colégio Rosalvo Félix<br>
+CS50 — Harvard University<br>
 LGPD — SERPRO
 
 **Concluído**
 
-Pesquisa — LabMent SINPETE, UFAL
-UI/UX — Design Boost
+Pesquisa — LabMent SINPETE, UFAL<br>
+UI/UX — Design Boost<br>
 Fullstack JavaScript — OneBitCode
 
 </td>
@@ -30,7 +30,7 @@ Fullstack JavaScript — OneBitCode
 </table>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,lua,firebase,vercel,git,figma&theme=dark" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,lua,firebase,vercel&theme=dark" alt="Stack" />
 </p>
 
 ## Projetos de pesquisa e produto
@@ -41,7 +41,7 @@ Fullstack JavaScript — OneBitCode
 
 ### Educaki
 
-Preparação para ENEM e SISU com correção de redação por IA e simulados calculados pela Teoria de Resposta ao Item, a mesma metodologia estatística usada pelo INEP.
+Preparação para ENEM e SISU com correção de redação por IA e simulados calculados pela Teoria de Resposta ao Item, mesma metodologia estatística usada pelo INEP.
 
 **1º lugar InovaEdu - SINPETE UFAL 2025**
 
@@ -67,7 +67,7 @@ Monitoramento hidrológico cívico da bacia do Rio Mundaú, cobrindo 12 municíp
 
 ### NATIVA
 
-Plataforma de educação ambiental com chatbot especializado em práticas sustentáveis e quiz interativo sobre biodiversidade regional em design com modernidade única.
+Plataforma de educação ambiental com chatbot especializado em práticas sustentáveis e quiz interativo sobre biodiversidade regional, com design de interface único.
 
 **Premiado — Semana STEAM CRF 2025**
 
