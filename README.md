@@ -59,7 +59,7 @@ Monitoramento hidrológico cívico da bacia do Rio Mundaú, cobrindo 12 municíp
 
 **Premiado — Semana STEAM CRF 2026**
 
-<code>API ANA</code> <code>Previsão GloFAS</code> <code>Ciência Cidadã</code>
+<code>API Externa</code> <code>Previsão GloFAS</code> <code>Ciência Cidadã</code>
 
 [mundau.vercel.app →](https://mundau.vercel.app)
 
@@ -68,11 +68,11 @@ Monitoramento hidrológico cívico da bacia do Rio Mundaú, cobrindo 12 municíp
 
 ### NATIVA
 
-Plataforma de educação ambiental com chatbot especializado em práticas sustentáveis e quiz interativo sobre biodiversidade regional em design biofílico.
+Plataforma de educação ambiental com chatbot especializado em práticas sustentáveis e quiz interativo sobre biodiversidade regional em design com modernidade única.
 
 **Premiado — Semana STEAM CRF 2025**
 
-<code>Chatbot Ambiental</code> <code>UI Biofílica</code> <code>Educação</code>
+<code>Chatbot Ambiental</code> <code>Objetivos (ODS)</code> <code>Educação</code>
 
 [nativacrf.vercel.app →](https://nativacrf.vercel.app)
 
