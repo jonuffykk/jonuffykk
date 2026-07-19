@@ -43,8 +43,7 @@ Fullstack JavaScript — OneBitCode
 
 Preparação para ENEM e SISU com correção de redação por IA e simulados calculados pela Teoria de Resposta ao Item, a mesma metodologia estatística usada pelo INEP.
 
-**1º lugar InovaEdu 2025**
-Pesquisa no LabMent SINPETE
+**1º lugar InovaEdu 2025 - Universidade Federal**
 
 <code>TRI Psicométrico</code> <code>IA Adaptativa</code> <code>Correção por IA</code>
 
