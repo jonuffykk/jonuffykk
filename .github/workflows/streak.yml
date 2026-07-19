@@ -2,11 +2,11 @@ name: Atualizar streak
 
 on:
   schedule:
-    - cron: '0 6 * * *'
+    - cron: "0 6 * * *"
   workflow_dispatch:
   push:
     paths:
-      - '.github/workflows/streak-stats.yml'
+      - ".github/workflows/streak.yml"
 
 jobs:
   gerar-streak:
@@ -19,7 +19,7 @@ jobs:
       - name: Gerar SVG do streak
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=jonuffykk&theme=react-dark&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF
+          options: user=jonuffykk&hide_border=true&background=0D1117&stroke=2D3748&ring=00E5FF&fire=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00E5FF&sideLabels=FEFEFE&dates=9E9E9E
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
