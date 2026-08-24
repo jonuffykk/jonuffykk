@@ -1,4 +1,6 @@
-# Anderson Alves
+<p align="center">
+  <img src="https://res.cloudinary.com/do3exol7/image/upload/v1787541548/banner.jpg" alt="Banner de Anderson Alves" width="100%" />
+</p>
 
 <table>
 <tr>
