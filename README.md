@@ -6,48 +6,44 @@
 <tr>
 <td width="58%" valign="top">
 
-Estudante do 3º ano do Ensino Médio no Colégio Rosalvo Félix, em Alagoas, e desenvolvedor web contratado pela própria escola, responsável pela arquitetura e manutenção do portal institucional.
+Sou estudante do 3º ano do Ensino Médio no Colégio Rosalvo Félix, em Alagoas, e desenvolvedor web contratado pela escola. Cuido do site institucional e do portal do responsável.
 
-Comecei em 2017, aos dez anos, escrevendo scripts em Lua no Roblox Studio. Em 2022 migrei para desenvolvimento web profissional, e hoje trabalho com TypeScript, React, Next.js, Python e integração de IA generativa em produtos que resolvem problemas reais de educação, meio ambiente e saúde pública.
+Programo desde 2017, quando comecei com Lua no Roblox Studio. Em 2022 passei a estudar desenvolvimento web a sério. Hoje trabalho com TypeScript, React, Next.js, Python e integrações com IA generativa, em projetos de educação, meio ambiente e saúde.
 
-Sou pesquisador no Laboratório de Mentoria Científica da Universidade Federal de Alagoas, onde desenvolvi o Educaki, plataforma premiada em 1º lugar no Concurso InovaEdu 2025.
+Participo do LabMent SINPETE, na UFAL, um programa de mentoria científica que acompanhou o Educaki, 1º lugar no Concurso InovaEdu 2025.
 
 </td>
 <td width="42%" valign="top">
 
-**Em andamento**
+**Em curso**
 
-Ensino Médio — Colégio Rosalvo Félix<br>
-CS50 — Harvard University<br>
-LGPD — SERPRO
+Ensino Médio, Colégio Rosalvo Félix
 
-**Concluído**
+**Concluídos**
 
-Pesquisa — LabMent SINPETE, UFAL<br>
-UI/UX — Design Boost<br>
-Fullstack JavaScript — OneBitCode
+CS50, Harvard University<br>
+LGPD, SERPRO<br>
+Design de Interfaces, Design Boost<br>
+Fullstack JavaScript, OneBitCode
 
 </td>
 </tr>
 </table>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,lua,firebase,vercel&theme=dark" alt="Stack" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,lua,firebase,vercel&theme=dark" alt="Tecnologias" />
 </p>
 
-## Projetos de pesquisa e produto
+## Projetos
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
 ### Educaki
+Simulado do ENEM, correção de redação com IA e simulação do SISU, de graça. A nota é estimada, não é a TRI oficial.
 
-Preparação para ENEM e SISU com correção de redação por IA e simulados calculados pela Teoria de Resposta ao Item, mesma metodologia estatística usada pelo INEP.
-
-**1º lugar InovaEdu - SINPETE UFAL 2025**
-
-<code>TRI Psicométrico</code> <code>IA Adaptativa</code> <code>Correção por IA</code>
+**1º lugar no Concurso InovaEdu (SINPETE/UFAL), 2025**
 
 [educaki.vercel.app →](https://educaki.vercel.app)
 
@@ -55,12 +51,9 @@ Preparação para ENEM e SISU com correção de redação por IA e simulados cal
 <td width="33%" valign="top">
 
 ### Mundaú Sentinela
+Monitora o Rio Mundaú em 9 pontos de Alagoas e Pernambuco. O nível é estimado a partir do GloFAS, não lido em régua.
 
-Monitoramento hidrológico cívico da bacia do Rio Mundaú, cobrindo 12 municípios entre Alagoas e Pernambuco. Cruza vazão fluvial da ANA e previsão de cheias do modelo GloFAS.
-
-**Premiado — Semana STEAM CRF 2026**
-
-<code>API Externa</code> <code>Previsão GloFAS</code> <code>Ciência Cidadã</code>
+**Premiado na Semana STEAM (Colégio Rosalvo Félix), 2026**
 
 [mundau.vercel.app →](https://mundau.vercel.app)
 
@@ -68,14 +61,43 @@ Monitoramento hidrológico cívico da bacia do Rio Mundaú, cobrindo 12 municíp
 <td width="33%" valign="top">
 
 ### NATIVA
+Educação ambiental com indicadores de fonte declarada, artigos, quiz e assistente com IA.
 
-Plataforma de educação ambiental com chatbot especializado em práticas sustentáveis e quiz interativo sobre biodiversidade regional, com design de interface único.
-
-**Premiado — Semana STEAM CRF 2025**
-
-<code>Chatbot Ambiental</code> <code>Objetivos (ODS)</code> <code>Educação</code>
+**Premiado na Semana STEAM (Colégio Rosalvo Félix), 2025**
 
 [nativacrf.vercel.app →](https://nativacrf.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### Guardião da Praia
+Ciência cidadã para a costa alagoana: registros de poluição com moderação e mapa público.
+
+**Escrito por mim. Apresentado por colegas na SINPETE/UFAL (3º lugar)**
+
+[seaguardian.vercel.app →](https://seaguardian.vercel.app)
+
+</td>
+<td width="33%" valign="top">
+
+### ReciclaMapa
+Mapa de pontos de coleta de reciclagem, com dados abertos do OpenStreetMap.
+
+**Escrito por mim. Apresentado por colegas na SINPETE/UFAL (menção honrosa)**
+
+[reciclamapa.vercel.app →](https://reciclamapa.vercel.app)
+
+</td>
+<td width="33%" valign="top">
+
+### Colégio Rosalvo Félix
+Site institucional e portal do responsável: boletim, financeiro e documentos em PDF.
+
+**Trabalho contratado pela escola**
+
+[colegiorosalvofelix.com →](https://www.colegiorosalvofelix.com)
 
 </td>
 </tr>
@@ -84,7 +106,7 @@ Plataforma de educação ambiental com chatbot especializado em práticas susten
 ## Atividade
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jonuffykk&theme=radical&hide_border=true&border_radius=5&locale=pt_BR&short_numbers=true&card_width=500&card_height=200" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jonuffykk&theme=radical&hide_border=true&border_radius=5&locale=pt_BR&short_numbers=true&card_width=500&card_height=200" alt="Sequência de contribuições no GitHub" />
 </p>
 
 <p align="center">
@@ -94,9 +116,9 @@ Plataforma de educação ambiental com chatbot especializado em práticas susten
 </p>
 
 <p align="center">
-  📧 andersonavcontato@gmail.com
+  contato@andersonalves.site
 </p>
 
 <p align="center">
-  <sub><i>Unindo rigor técnico em engenharia de software à sensibilidade de design de produto para construir impacto social mensurável.</i></sub>
+  <sub><i>Tecnologia feita com cuidado de engenharia, a partir de um problema real.</i></sub>
 </p>
