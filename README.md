@@ -6,7 +6,7 @@
 <tr>
 <td width="58%" valign="top">
 
-Sou desenvolvedor full-stack em Rio Largo, Alagoas. Desenvolvo sozinho o site, o portal do responsável e o aplicativo do Colégio Rosalvo Félix, onde também curso o 3º ano do Ensino Médio.
+Sou desenvolvedor full-stack em Rio Largo, Alagoas. Desenvolvo sozinho o site, o portal do responsável e o aplicativo do Colégio Rosalvo Félix.
 
 Programo desde 2017, quando comecei com Lua no Roblox Studio. Em 2022 passei a estudar desenvolvimento web a sério. Hoje trabalho com TypeScript, React, Next.js, Python e integrações com IA generativa, em projetos de educação, meio ambiente e saúde.
 
@@ -15,15 +15,10 @@ Participo do LabMent SINPETE, na UFAL, um programa de mentoria científica que a
 </td>
 <td width="42%" valign="top">
 
-**Em curso**
-
-Ensino Médio, Colégio Rosalvo Félix
-
-**Concluídos**
+**Cursos concluídos**
 
 [CS50x, Harvard University](https://cs50.harvard.edu/certificates/be70728e-0ade-4ba7-ba17-7785a0387a90)<br>
 Fundamentos da LGPD, Enap<br>
-Contratação de TIC, Enap<br>
 Design de Interfaces, Design Boost<br>
 Fullstack JavaScript, OneBitCode
 
@@ -32,7 +27,7 @@ Fullstack JavaScript, OneBitCode
 </table>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,lua,firebase,vercel&theme=dark" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,rust,tauri,python,lua,firebase,vercel&theme=dark" alt="Tecnologias" />
 </p>
 
 ## Projetos
@@ -76,7 +71,7 @@ Educação ambiental com indicadores de fonte declarada, artigos, quiz e assiste
 ### Guardião da Praia
 Ciência cidadã para a costa alagoana: registros de poluição com moderação e mapa público.
 
-**Escrito por mim. Equipe do Colégio Santíssima em [1º lugar no InovaEdu 2025](https://editais.ufal.br/outros/concurso-inovaedu-do-sinpete/resultado-final/view), Pesquisa Inovadora, ensino fundamental particular**
+**Desenvolvido por mim. Equipe do Colégio Santíssima em [1º lugar no InovaEdu 2025](https://editais.ufal.br/outros/concurso-inovaedu-do-sinpete/resultado-final/view), Pesquisa Inovadora, ensino fundamental particular**
 
 [seaguardian.vercel.app →](https://seaguardian.vercel.app)
 
@@ -86,7 +81,7 @@ Ciência cidadã para a costa alagoana: registros de poluição com moderação 
 ### ReciclaMapa
 Mapa de pontos de coleta de reciclagem, com dados abertos do OpenStreetMap.
 
-**Escrito por mim. Equipe do Colégio Santíssima em [7º lugar na SINPETE 2024](https://editais.ufal.br/outros/concurso-de-ideias-e-pesquisas-inovadoras-da-sinpete/maceio-resultado-final-do-concurso-de-ideias-e-pesquisas-inovadoras/view), com livro na Coleção Sinpete**
+**Desenvolvido por mim. Equipe do Colégio Santíssima em [7º lugar na SINPETE 2024](https://editais.ufal.br/outros/concurso-de-ideias-e-pesquisas-inovadoras-da-sinpete/maceio-resultado-final-do-concurso-de-ideias-e-pesquisas-inovadoras/view), com livro na Coleção Sinpete**
 
 [reciclamapa.vercel.app →](https://reciclamapa.vercel.app)
 
