@@ -6,7 +6,7 @@
 <tr>
 <td width="58%" valign="top">
 
-Sou estudante do 3º ano do Ensino Médio no Colégio Rosalvo Félix, em Alagoas, e desenvolvedor web contratado pela escola. Cuido do site institucional e do portal do responsável.
+Sou desenvolvedor full-stack em Rio Largo, Alagoas. Desenvolvo sozinho o site, o portal do responsável e o aplicativo do Colégio Rosalvo Félix, onde também curso o 3º ano do Ensino Médio.
 
 Programo desde 2017, quando comecei com Lua no Roblox Studio. Em 2022 passei a estudar desenvolvimento web a sério. Hoje trabalho com TypeScript, React, Next.js, Python e integrações com IA generativa, em projetos de educação, meio ambiente e saúde.
 
@@ -21,8 +21,9 @@ Ensino Médio, Colégio Rosalvo Félix
 
 **Concluídos**
 
-CS50, Harvard University<br>
-LGPD, SERPRO<br>
+[CS50x, Harvard University](https://cs50.harvard.edu/certificates/be70728e-0ade-4ba7-ba17-7785a0387a90)<br>
+Fundamentos da LGPD, Enap<br>
+Contratação de TIC, Enap<br>
 Design de Interfaces, Design Boost<br>
 Fullstack JavaScript, OneBitCode
 
@@ -41,9 +42,9 @@ Fullstack JavaScript, OneBitCode
 <td width="33%" valign="top">
 
 ### Educaki
-Simulado do ENEM, correção de redação com IA e simulação do SISU, de graça. A nota é estimada, não é a TRI oficial.
+Simulado do ENEM, correção de redação com IA e simulação do SISU, de graça. A nota é a proporção de acertos por área, não a TRI oficial.
 
-**1º lugar no Concurso InovaEdu (SINPETE/UFAL), 2025**
+**[1º lugar no InovaEdu 2025](https://editais.ufal.br/outros/concurso-inovaedu-do-sinpete/resultado-final/view), Produto Inovador, ensino médio particular**
 
 [educaki.vercel.app →](https://educaki.vercel.app)
 
@@ -75,7 +76,7 @@ Educação ambiental com indicadores de fonte declarada, artigos, quiz e assiste
 ### Guardião da Praia
 Ciência cidadã para a costa alagoana: registros de poluição com moderação e mapa público.
 
-**Escrito por mim. Apresentado por colegas na SINPETE/UFAL (3º lugar)**
+**Escrito por mim. Equipe do Colégio Santíssima em [1º lugar no InovaEdu 2025](https://editais.ufal.br/outros/concurso-inovaedu-do-sinpete/resultado-final/view), Pesquisa Inovadora, ensino fundamental particular**
 
 [seaguardian.vercel.app →](https://seaguardian.vercel.app)
 
@@ -85,7 +86,7 @@ Ciência cidadã para a costa alagoana: registros de poluição com moderação 
 ### ReciclaMapa
 Mapa de pontos de coleta de reciclagem, com dados abertos do OpenStreetMap.
 
-**Escrito por mim. Apresentado por colegas na SINPETE/UFAL (menção honrosa)**
+**Escrito por mim. Equipe do Colégio Santíssima em [7º lugar na SINPETE 2024](https://editais.ufal.br/outros/concurso-de-ideias-e-pesquisas-inovadoras-da-sinpete/maceio-resultado-final-do-concurso-de-ideias-e-pesquisas-inovadoras/view), com livro na Coleção Sinpete**
 
 [reciclamapa.vercel.app →](https://reciclamapa.vercel.app)
 
@@ -93,7 +94,7 @@ Mapa de pontos de coleta de reciclagem, com dados abertos do OpenStreetMap.
 <td width="33%" valign="top">
 
 ### Colégio Rosalvo Félix
-Site institucional e portal do responsável: boletim, financeiro e documentos em PDF.
+Site, portal do responsável e aplicativo: boletim, financeiro e documentos em PDF. Android em teste alpha no Google Play.
 
 **Trabalho contratado pela escola**
 
@@ -103,11 +104,13 @@ Site institucional e portal do responsável: boletim, financeiro e documentos em
 </tr>
 </table>
 
-## Atividade
+## Código aberto
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jonuffykk&theme=radical&hide_border=true&border_radius=5&locale=pt_BR&short_numbers=true&card_width=500&card_height=200" alt="Sequência de contribuições no GitHub" />
-</p>
+- [FlowScale](https://github.com/jonuffykk/Flowscale): escala, geração de quadros e limitador de FPS no Windows, em Rust e HLSL.
+- [jStudio](https://github.com/jonuffykk/jStudio): assistente de IA para o Roblox Studio, em Tauri e Rust.
+- [PoliticaMais](https://github.com/jonuffykk/PoliticaMais): votações, parlamentares e indicadores lidos nas fontes oficiais.
+- [Uncap](https://github.com/jonuffykk/Uncap): diagnóstico e melhoria de imagem de vídeo no navegador, em WebGL2.
+- [Blingo](https://github.com/jonuffykk/Blingo): inglês para brasileiros, com revisão espaçada e uso offline.
 
 <p align="center">
   <a href="https://andersonalves.site"><b>Portfólio</b></a> &nbsp;•&nbsp;
